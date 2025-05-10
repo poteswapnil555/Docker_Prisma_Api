@@ -25,7 +25,7 @@ A containerized RESTful API built with Node.js, Express, and Prisma ORM. It supp
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/poteswapnil555/docker-prisma-api.git
+git clone https://github.com/poteswapnil555/Docker_Prisma_Api.git
 cd docker-prisma-api
 ```
 
